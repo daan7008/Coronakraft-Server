@@ -1,0 +1,168 @@
+{
+  "entries": [
+    {
+      "item": "solarflux:mirror|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:photovoltaic_cell_1|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:photovoltaic_cell_2|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:photovoltaic_cell_3|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:photovoltaic_cell_4|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:photovoltaic_cell_5|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:photovoltaic_cell_6|0",
+      "emc": 0
+    },
+    {
+      "item": "bloodmagic:blood_rune|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:solar_panel_1|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:solar_panel_2|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:solar_panel_alchemical|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:solar_panel_3|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:solar_panel_alchemical_brass|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:solar_panel_4|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:solar_panel_thaumium|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:solar_panel_5|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:solar_panel_void_metal|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:solar_panel_6|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:solar_panel_7|0",
+      "emc": 0
+    },
+    {
+      "item": "solarflux:solar_panel_8|0",
+      "emc": 0
+    },
+    {
+      "item": "stevescarts:modulecomponents|18",
+      "emc": 0
+    },
+    {
+      "item": "stevescarts:modulecomponents|46",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:material|2",
+      "emc": 0
+    },
+    {
+      "item": "buildcraftcore:engine|0",
+      "emc": 0
+    },
+    {
+      "item": "buildcraftcore:engine|1",
+      "emc": 0
+    },
+    {
+      "item": "buildcraftcore:engine|2",
+      "emc": 0
+    },
+    {
+      "item": "forestry:ingot_bronze|0",
+      "emc": 0
+    },
+    {
+      "item": "ic2:ingot|1",
+      "emc": 0
+    },
+    {
+      "item": "forestry:thermionic_tubes|0",
+      "emc": 0
+    },
+    {
+      "item": "forestry:thermionic_tubes|1",
+      "emc": 0
+    },
+    {
+      "item": "forestry:thermionic_tubes|2",
+      "emc": 0
+    },
+    {
+      "item": "forestry:thermionic_tubes|3",
+      "emc": 0
+    },
+    {
+      "item": "forestry:thermionic_tubes|4",
+      "emc": 0
+    },
+    {
+      "item": "forestry:thermionic_tubes|5",
+      "emc": 0
+    },
+    {
+      "item": "forestry:thermionic_tubes|6",
+      "emc": 0
+    },
+    {
+      "item": "forestry:thermionic_tubes|7",
+      "emc": 0
+    },
+    {
+      "item": "forestry:thermionic_tubes|8",
+      "emc": 0
+    },
+    {
+      "item": "forestry:thermionic_tubes|9",
+      "emc": 0
+    },
+    {
+      "item": "forestry:thermionic_tubes|10",
+      "emc": 0
+    },
+    {
+      "item": "forestry:thermionic_tubes|11",
+      "emc": 0
+    },
+    {
+      "item": "forestry:thermionic_tubes|12",
+      "emc": 0
+    }
+  ]
+}
